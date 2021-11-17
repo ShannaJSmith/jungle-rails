@@ -2,8 +2,6 @@
 
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
 
-# Something
-
 Homepage
 !["HomePage"](https://github.com/ShannaJSmith/jungle-rails/blob/master/docs/Products_HomePage.png?raw=true)
 
